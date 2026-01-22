@@ -37,4 +37,4 @@ Debounced search for performance
 
 Error handling and loading states
 
-This project demonstrates modern React development practices including state management, API integration, and user experience optimization."
+This project demonstrates modern React development practices including state management, API integration, and user experience optimization.
